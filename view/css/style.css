@@ -1,0 +1,37 @@
+*{
+    text-align: center;
+}
+
+th{
+    border: black 1px;
+}
+
+h2{
+    padding: 50px;
+}
+
+.ticketContainer{
+    padding: 50px;
+}
+
+.ticketHead, .ticketInfo, .priceInfo{
+    width: 100%;
+}
+
+.priceHead{
+    font-weight: bold;
+}
+
+.ticketHead, .priceInfo {
+    background-color: #b9bbbe;
+}
+
+.priceTag p{
+    text-align: left;
+}
+
+.priceTotal{
+    font-weight: bold;
+    font-size: 2rem;
+;
+}
